@@ -1175,11 +1175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test_EFcoreWithBlazor\\test_EFcoreWithBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\Basic-CRUD-Operations-in-Blazor-using-SQLite\\test_EFcoreWithBlazor.csproj",
       "projectName": "test_EFcoreWithBlazor",
-      "projectPath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test_EFcoreWithBlazor\\test_EFcoreWithBlazor.csproj",
+      "projectPath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\Basic-CRUD-Operations-in-Blazor-using-SQLite\\test_EFcoreWithBlazor.csproj",
       "packagesPath": "C:\\Users\\dhood\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test_EFcoreWithBlazor\\obj\\",
+      "outputPath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\Basic-CRUD-Operations-in-Blazor-using-SQLite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

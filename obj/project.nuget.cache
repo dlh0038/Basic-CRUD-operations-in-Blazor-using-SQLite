@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nk3DhN3vuahnVsTO7eyVEntUBkuvF7mYQ7WjiQXxTKIVMnnntH0ilUR4xspUWVupy3D2FIZccci7MagU/Ok7VQ==",
+  "dgSpecHash": "zcGiPIMKPmYqbGOWFSyh5JRKXUrqNzFv+obTAqPgjqLApBxeV1YOdqupDjAhMYiC7V8wTATly8El9b98VBVtXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test_EFcoreWithBlazor\\test_EFcoreWithBlazor.csproj",
+  "projectFilePath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\Basic-CRUD-Operations-in-Blazor-using-SQLite\\test_EFcoreWithBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhood\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dhood\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
